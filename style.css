@@ -137,6 +137,7 @@ body{
     background-color:black;
     color:white;
     padding:20px;
+    
 }
 .footer__one{
     display:flex;
@@ -144,6 +145,7 @@ body{
 }
 .footer__one p{
     margin:10px;
+    align-items: center;
 }
 .footer__two{
     margin:10px;
